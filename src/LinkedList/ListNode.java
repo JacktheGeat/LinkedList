@@ -1,7 +1,7 @@
 package LinkedList;
 
 /**
- * individual Node used by LinkedList
+ * individual Node used by LinkedList 
  * @author Jack Lynch
  * @version 2/13/2024
  */
